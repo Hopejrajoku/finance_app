@@ -32,7 +32,7 @@ const FinancialCard  = () => {
         <Image
           src="/financialcard.png" // Ensure correct path
           alt="Financial App and Card"
-          width={800}
+          width={700}
           height={600}
           className="w-full mx-auto "
 

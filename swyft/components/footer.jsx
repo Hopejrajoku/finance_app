@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
         {/* Left Side: Logo and Brand Name */}
         <div className="flex items-center space-x-3 mx-auto">
-          <Image src="/log.png" alt="SwtFyn Logo" width={600} height={500} />          
+          <Image src="/log.png" alt="SwtFyn Logo" width={200} height={200} />          
         </div>
 
                 
